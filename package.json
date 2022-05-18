@@ -1,0 +1,16 @@
+{
+  "name": "wa-service",
+  "version": "0.0.1",
+  "dependencies": {
+    "@nestjs/common": "^8.0.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.13.2",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.0.0",
+    "whatsapp-web.js": "^1.16.6",
+    "@nestjs/core": "^8.0.0",
+    "@nestjs/platform-express": "^8.0.0",
+    "helmet": "^5.1.0"
+  },
+  "main": "main.js"
+}

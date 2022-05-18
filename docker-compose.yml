@@ -1,0 +1,5 @@
+version: '3'
+services:
+  wa-service:
+    container_name: wa_service
+    build: .
