@@ -1,6 +1,6 @@
 FROM alpine:3.15
 
-RUN apk add --update nodejs yarn chromium@edge
+RUN apk add --update nodejs yarn chromium
 
 WORKDIR /app
 
